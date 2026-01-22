@@ -86,19 +86,6 @@ Primary language: Jupyter Notebook
   - Technical and non-technical executive summaries for different audiences.
   - A full written report describing the methodology, experiments, results, and conclusions.
 
-Refer to the provided DOCX write-ups for detailed results, interpretation, and any policy or domain-specific implications.
-
-## Contributing
-
-This repository holds final-course deliverables. If you would like changes, corrections, or enhancements (for example, convert DOCX to PDF, add environment files, or expand the README with dependency pins), open an issue or submit a pull request.
-
 ## Contact
 
 Repository owner: [gwils1414](https://github.com/gwils1414)
-
-If you want, I can:
-- Convert the DOCX files to PDF and add them to the repo,
-- Generate an environment.yml or requirements.txt with pinned versions inferred from the notebooks,
-- Or open a PR that replaces this lightweight README with the file above.
-
-Let me know which of those you'd like me to do and I will proceed.
