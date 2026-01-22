@@ -1,5 +1,3 @@
-# Data-Mining-Final-Project
-
 # Data Mining — Final Project
 
 A concise collection of notebooks and deliverables for the Data Mining final project. This repository contains the project analysis, modeling experiments, and formal write-ups produced as part of the course.
